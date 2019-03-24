@@ -27,5 +27,8 @@
 - [DownLoad](https://docs.docker.com/docker-for-mac/install/)
 - Plase kitematic download link below or choise (menu -> kitematic)
     - [DownLoad](https://github.com/docker/kitematic/releases)
+- Or choise (menu -> kitematic)
+    <img width="1627" alt="スクリーンショット 2019-03-25 0 59 04" src="https://user-images.githubusercontent.com/42311219/54882121-24275b80-4e9a-11e9-9175-7ab9edf5dd30.png">
 
-
+- Please create a Docker hub account
+    - [Docker hub](https://hub.docker.com/)
