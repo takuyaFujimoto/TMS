@@ -14,7 +14,7 @@
 
 ### 3 gradle version 5.x.x
 - `brew install gradle`
-- `brew -v`
+- `gradle -v`
 
 ### 4 Visual Studio Code
 - [DownLoad](https://code.visualstudio.com/download)
@@ -23,5 +23,9 @@
         - `"java.home": "/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home"`
 
 
-※更新中
+### 5 Docker
+- [DownLoad](https://docs.docker.com/docker-for-mac/install/)
+- Plase kitematic download link below or choise (menu -> kitematic)
+    - [DownLoad](https://github.com/docker/kitematic/releases)
+
 
