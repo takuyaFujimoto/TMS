@@ -22,7 +22,6 @@
     - Plase set Visual Studio Code settings.json
         - `"java.home": "/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home"`
 
-
 ### 5 Docker
 - [DownLoad](https://docs.docker.com/docker-for-mac/install/)
 - Plase kitematic download link below
@@ -32,3 +31,10 @@
 
 - Please create a Docker hub account
     - [Docker hub](https://hub.docker.com/)
+
+- Start TMS for Docker
+    1. Move docker folder
+    2. `docker-compose up -d`
+    3. Open localhost
+    4. If you want to quit `docker-compose stop`
+
